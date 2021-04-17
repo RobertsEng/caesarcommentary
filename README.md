@@ -14,7 +14,7 @@ I included some settlements for which the locations are approximate and not of h
 the settlement of Noreia is considered lost, and the coordinates provided by Pleiades appear to
 be only approximate and based on the Tabula Peutingeriana (which, tangentially, contains two adjacent
 entries for Noreia, possibly a medieval copying error). I have noted cases such as this that are matters of
-debate and speculation as 'disputed' in the 'latinplacenames.XLSX' file, while others that simply appear to have low quality evidence are 
+debate and speculation as 'disputed' in the 'commentarii.xlsx' file, while others that simply appear to have low quality evidence are 
 simply noted as having a 'low' confidence. Settlements and fortifications for which there appears to be
 extremely little to no supporting circumstantial or achaeological evidence were not included, as was the case
 with the supposed identification of Devil's Dyke in Hertfordshire as the site fortification where Caesar
