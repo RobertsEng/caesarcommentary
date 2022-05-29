@@ -1,6 +1,6 @@
 ### Commentarii de Bello Gallico
 
-Here I examined the McDevitte translation of Julius Caesar's ['Commentarii de Bello Gallico'](http://www.gutenberg.org/ebooks/10657) for the names of settlements, attempted to ascertain their geospatial coordinates using existing reference material, and overlaid their positions onto a modern map of Europe. Dissatisfied with the performance of available geoparsers on this historical document, I examined the document in its entirety manually (excluding only the additional commentary by Aulus Hirtius), using online references where needed to determine settlement location.
+Here I examined the McDevitte translation of Julius Caesar's ['Commentarii de Bello Gallico'](http://www.gutenberg.org/ebooks/10657) for the names of settlements, attempted to ascertain their geospatial coordinates using existing reference material, and overlaid their positions onto a map of modern European nations. Dissatisfied with the performance of available geoparsers on this historical document, I examined the document in its entirety manually (excluding only the additional commentary by Aulus Hirtius), using online references where needed to determine settlement location.
 
 For the most part, I confined the inclusion of individual settlements to those which were explicitly named. 
 Exceptions include settlements that were not named but were nonetheless of substantive importance to the events 
